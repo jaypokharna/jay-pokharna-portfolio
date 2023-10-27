@@ -192,6 +192,8 @@ section {
 .section__text__p2 {
   font-size: 1.75rem;
   margin-bottom: 1rem;
+  width: 730px;
+  height: 43px;
 }
 
 .title {
